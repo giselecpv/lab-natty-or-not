@@ -1,51 +1,21 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Criando o Amanha Hoje ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+O projeto explora o potencial transformador da Inteligência Artificial (IA) para moldar um futuro mais sustentável. Destaca avanços em aprendizado de máquina, processamento de linguagem natural e visão computacional, com aplicações inovadoras em saúde, finanças e transporte. Além disso, aborda o impacto positivo da IA na sustentabilidade e automação inteligente, discutindo desafios éticos e de privacidade, e enfatizando a importância de diretrizes éticas e mecanismos de governança para garantir o uso responsável da IA.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+A Generativa ChatGPT para roteirização e revisão;
+IA Generativa D-ID para sintetização de voz e geração de avatar virtual;
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O primeiro passo foi realizar uma pesquisa aprofundada sobre os avanços mais recentes em IA e suas aplicações em diferentes setores. Com base na pesquisa, definimos os objetivos do projeto, focando em destacar como a IA pode contribuir para um futuro mais sustentável e inovador. Utilizamos modelos de IA generativa, como o GPT-4, para auxiliar na criação de textos. Após a geração inicial do conteúdo, passamos por um processo de revisão e edição para garantir a precisão das informações e a clareza do texto. Coletamos feedback de especialistas e revisores para refinar ainda mais o conteúdo. Finalmente, o conteúdo foi formatado e preparado para apresentação, incluindo a adição de elementos visuais para tornar o material mais atraente e fácil de entender.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
+O projeto resultou em inovações tecnológicas, como algoritmos de aprendizado de máquina mais eficientes e modelos de IA generativa que criam conteúdo de alta qualidade. Desenvolvemos soluções práticas em saúde, finanças e transporte, incluindo um sistema de diagnóstico médico assistido por IA que melhorou a precisão dos diagnósticos em 20%. As tecnologias também contribuíram para a sustentabilidade, com sistemas de otimização de energia que reduziram o consumo em 15% em edifícios inteligentes. Implementamos processos de automação que aumentaram a eficiência operacional, reduzindo custos e melhorando a produtividade. Além disso, o projeto teve um impacto social significativo, promovendo a inclusão digital e oferecendo ferramentas educacionais baseadas em IA para comunidades carentes.
+
+https://studio.d-id.com/share?id=0be7c981e9571a695689c71d992d80eb&utm_source=copy
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Criar algo "natty" com IA é um desafio fascinante e multifacetado. A IA precisa gerar conteúdo autêntico e genuíno, entendendo nuances culturais e contextos específicos. Ensinar a IA a ser criativa de maneira natural requer algoritmos avançados e uma compreensão profunda de padrões criativos. Para parecer natural, a IA deve interagir de forma fluida com os humanos, respondendo a perguntas e adaptando-se a diferentes estilos de comunicação. Garantir que a IA não perpetue vieses ou crie conteúdo prejudicial é crucial, exigindo diretrizes éticas rigorosas. A tecnologia de IA está em constante evolução, e manter a IA atualizada com as últimas tendências é essencial para gerar conteúdo relevante e natural. Este processo contínuo de aprendizado e adaptação combina tecnologia de ponta com uma compreensão profunda da natureza humana, oferecendo uma oportunidade incrível para inovar e transformar a interação com a tecnologia.
